@@ -24,7 +24,7 @@
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/tripList"
         android:layout_width="412dp"
-        android:layout_height="616dp"
+        android:layout_height="591dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

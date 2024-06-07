@@ -68,14 +68,6 @@
             android:orientation="horizontal">
 
             <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Description ..."
-                android:textColor="@color/black"
-                android:textSize="26sp"
-                android:textStyle="bold" />
-
-            <TextView
                 android:id="@+id/tripDescTv"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
