@@ -22,6 +22,7 @@ APPLICATION DESCRIPTION:
 * [A 4-hour playlist about android concepts and how to build an adroid app using java](https://www.youtube.com/watch?v=tZvjSl9dswg)
 * [Tutorial about fragments](https://www.youtube.com/watch?v=4r8FvGADzF4)
 * [Playlist about hoc to connect android app to firebase database](https://www.youtube.com/watch?v=Eg2aGWblQvk&list=PLjnZx7KD6m-ySasHtRKIX-04VuOYmGBmr)
+* [Firebase documentation]([https://developer.android.com/studio](https://firebase.google.com/docs/firestore/query-data/get-data))
 
 # Future Work
 
