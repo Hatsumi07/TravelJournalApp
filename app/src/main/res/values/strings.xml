@@ -3,4 +3,9 @@
     <string name="trip_date">Trip Date</string>
     <string name="trip_title">Trip Title</string>
     <string name="trip_description">Trip Description</string>
+    <string name="title">Title :</string>
+    <string name="date">Date :</string>
+    <string name="it_was_on">It was on ...</string>
+    <string name="description">Description :</string>
+    <string name="my_trip_was">My trip was ...</string>
 </resources>

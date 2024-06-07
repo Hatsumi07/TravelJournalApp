@@ -13,9 +13,6 @@
         android:theme="@style/Theme.TravelJournal"
         tools:targetApi="31">
         <activity
-            android:name=".TravelExperience"
-            android:exported="false" />
-        <activity
             android:name=".AddTravelExp"
             android:exported="false" />
         <activity
