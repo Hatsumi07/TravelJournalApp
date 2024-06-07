@@ -8,8 +8,7 @@ APPLICATION DESCRIPTION:
 . Build a travel journal app that lets users record their
   travel experiences.
 
-
-* [Software Demo Video]([http://youtube.link.goes.here](https://www.youtube.com/watch?v=lKBavkWALyQ))
+* [Software Demo Video](https://www.youtube.com/watch?v=lKBavkWALyQ)
 
 # Development Environment
 
@@ -18,9 +17,6 @@ APPLICATION DESCRIPTION:
 . I used firebase as the database of the application.
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-# Websites for setting up environment
 * [Developer Android](https://developer.android.com/studio)
 * [Build Your First App Tutorial](https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app#7)
 * [A 4-hour playlist about android concepts and how to build an adroid app using java](https://www.youtube.com/watch?v=tZvjSl9dswg)
