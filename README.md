@@ -9,7 +9,7 @@ APPLICATION DESCRIPTION:
   travel experiences.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]([http://youtube.link.goes.here](https://www.youtube.com/watch?v=lKBavkWALyQ))
 
 # Development Environment
 
