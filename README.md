@@ -9,15 +9,13 @@ APPLICATION DESCRIPTION:
   travel experiences.
 
 
-[Software Demo Video]([http://youtube.link.goes.here](https://www.youtube.com/watch?v=lKBavkWALyQ))
+* [Software Demo Video]([http://youtube.link.goes.here](https://www.youtube.com/watch?v=lKBavkWALyQ))
 
 # Development Environment
 
 . I used Android studio to develop the application.
 . I used java as the programming language of the application.
 . I used firebase as the database of the application.
-
-{Describe the programming language that you used and any libraries.}
 
 # Useful Websites
 
